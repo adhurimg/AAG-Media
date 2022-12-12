@@ -9,6 +9,12 @@ body {
   box-sizing: border-box;
   font-family: 'Poppins',sans-serif;
 }
+p {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  color: white;
+}
 
 #idSpan {
   color: darkgray;
@@ -21,17 +27,17 @@ body {
   place-items: center;
 }
 .wrapper{
-  height: 560px;
+  height: 580px;
   margin: 60px;
   width: 100%;
-  background: #fff;
+  background: #2a292a;
   border-radius: 60px;
   box-shadow: 0px 4px 10px 1px rgba(0,0,0,0.1);
 }
 .wrapper .title{
   height: 90px;
   border-radius: 5px 5px 0 0;
-  color: black;
+  color: white;
   font-size: 30px;
   font-weight: 600;
   display: flex;
@@ -96,6 +102,7 @@ form .signup-link a:hover{
   justify-content: center;
   align-items: center;
   margin: auto;
-  background-color: #2a292a;
+  background-color: #333333;
   border: none;
+  margin-top: 50px;
 }

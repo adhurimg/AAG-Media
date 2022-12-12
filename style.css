@@ -8,12 +8,13 @@ scroll-behavior: smooth;
   max-width: 100%;
 }
 .bck {
-  background-image: url("bck.jpg");
+  background-color: #333333;
 
 }
 #div  {
   display: flex;
   justify-content: center;
+  align-items: center;
   margin-top: -20px;
 }
 
@@ -103,7 +104,7 @@ a:nth-child(5) {
 .form{
   width: 425px;
   height: auto;
-  background: #5F6F94;
+  background: #2a292a;
   padding: 35px 50px;
   border-radius: 20px;
 }
@@ -120,6 +121,7 @@ a:nth-child(5) {
   margin-bottom: 20px;
   width: 325px;
   position: relative;
+
 }
 
 .form .input_wrap:last-child{
@@ -148,7 +150,7 @@ a:nth-child(5) {
 
 
 .form .input_wrap .input:focus{
-  border-color: #1dbf73;
+  border-color: #ffffff;
 }
 
 .form .input_wrap .input_field{

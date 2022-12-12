@@ -30,6 +30,6 @@ input_fields.forEach(function(input_item){
 
 document.getElementById("submitBtn").addEventListener("click", myFunction);
 function myFunction() {
-	window.location.href="index.html";
+	window.location.href="home.html";
 }
 
