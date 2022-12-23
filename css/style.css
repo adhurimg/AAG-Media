@@ -243,23 +243,23 @@ a:nth-child(5) {
   
 #slides .frame_1 {
   border-radius: 20px;
-  background: url(mk.jpg);
+  background: url(../images/mk.jpg);
 
 }
   
 #slides .frame_2 {
   border-radius: 20px;
-  background: url("2.jpg");
+  background: url("../images/2.jpg");
 }
   
 #slides .frame_3 {
   border-radius: 20px;
-  background-image: url("dig.png");
+  background-image: url("../images/dig.png");
 }
   
 #slides .frame_4 {
   border-radius: 20px;
-  background-image: url("cm.jpg");
+  background-image: url("../images/cm.jpg");
 }
   
 #controls {
