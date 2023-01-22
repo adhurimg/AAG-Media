@@ -3,28 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="3a778133-2aa6-40b5-a6ba-2132b0c07740" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/About.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Services.html" beforeDir="false" afterPath="$PROJECT_DIR$/Services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aagbg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aagmedia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bck.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dig.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/signup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesignup.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,7 +33,15 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;oracle&quot;,
+      &quot;postgresql&quot;
+    ]
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -72,7 +66,10 @@
       <workItem from="1670694393227" duration="589000" />
       <workItem from="1670859673374" duration="1381000" />
       <workItem from="1671235198880" duration="47000" />
-      <workItem from="1671820179462" duration="1138000" />
+      <workItem from="1671820179462" duration="1275000" />
+      <workItem from="1673888708442" duration="613000" />
+      <workItem from="1673891599316" duration="365000" />
+      <workItem from="1673893239608" duration="1000" />
     </task>
     <servers />
   </component>

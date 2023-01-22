@@ -14,11 +14,11 @@
 <div id="nav">
   <nav>
 
-    <a href="home.html">Home</a>
-    <a href="Services.html">Services</a>
-    <a href="About.html">About</a>
-    <a href="login.html">Log In</a>
-    <a href="signup.html" id="a">Sign Up</a>
+     <a href="home.php">Home</a>
+        <a href="Services.php">Services</a>
+        <a href="About.php">About</a>
+        <a href="login.php">Log In</a>
+        <a href="signup.php" id="a">Sign Up</a>
 
     <div class="animation start-home"></div>
   </nav>

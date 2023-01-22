@@ -30,7 +30,7 @@ input_fields.forEach(function(input_item){
 
 document.getElementById("submitBtn").addEventListener("click", myFunction);
 function myFunction() {
-	window.location.href="home.html";
+	window.location.href="home.php";
 }
 
 function validoMeRegex() {
