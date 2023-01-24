@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a778133-2aa6-40b5-a6ba-2132b0c07740" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Our work/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/.idea/Our work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/imgOurwork/ad1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/imgOurwork/edit1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/imgOurwork/edit2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/imgOurwork/edit3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/imgOurwork/edit4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/imgOurwork/edit5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/imgOurwork/edit6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/imgOurwork/edit7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/imgOurwork/imageedit_1_2181771576.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/imgOurwork/imageedit_2_2549336608.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/imgOurwork/imageedit_3_3636165905.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/imgOurwork/imageedit_4_6304842149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/imgOurwork/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/imgOurwork/logo2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/imgOurwork/logo3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/imgOurwork/logo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/ourwork.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our work/styleourwork.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ad2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/About.php" beforeDir="false" afterPath="$PROJECT_DIR$/About.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +98,9 @@
       <workItem from="1673888708442" duration="613000" />
       <workItem from="1673891599316" duration="365000" />
       <workItem from="1673893239608" duration="1000" />
+      <workItem from="1674589825956" duration="1337000" />
+      <workItem from="1674592271410" duration="9000" />
+      <workItem from="1674598911179" duration="2539000" />
     </task>
     <servers />
   </component>

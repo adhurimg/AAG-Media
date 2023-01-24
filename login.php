@@ -14,7 +14,7 @@
     <div class="title">
       Login
     </div>
-    <form method="post" action="home.html" onsubmit="return validation();">
+    <form method="post" action="home.php" onsubmit="return validation();">
       <div class="input_wrap">
         <label for="input_text">Email or Username</label>
         <div class="input_field">
