@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Our Work</title>
-    <link rel="stylesheet" href="styleourwork.css">
+    <link rel="stylesheet" href="css/styleourwork.css">
 </head>
 <body>
 
@@ -21,7 +21,7 @@
         <label for="check2">Ads</label>
         <label for="check3">Logos</label>
         <label for="check4">Photo Editing</label>
-        <h3 id="h3"><a href="../home.php">Home</a></h3>
+        <h3 id="h3"><a href="home.php">Home</a></h3>
     </div>
     <div class="photo-gallery">
         <div class="pic ads">

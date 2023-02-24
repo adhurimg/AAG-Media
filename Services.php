@@ -7,22 +7,30 @@
   <script src="https://kit.fontawesome.com/ca029b6aea.js" crossorigin="anonymous"></script>
 </head>
 <link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
 <body id="services">
-<div id= "div">
-  <img src="images/aagbg.png">
+
+<div class="bodyNav">
+    <div id="nav">
+        <nav>
+            <input type="checkbox" id="checkNav">
+            <label for="checkNav" class="checkBtnNav">
+                <i class="fa fa-bars"></i>
+            </label>
+            <label class="logo">AAG Media</label>
+            <ul>
+
+                <li><a class="active" href="home.php">Home</a></li>
+                <li><a href="Services.php">Services</a></li>
+                <li><a href="About.php">About</a></li>
+                <li><a href="ourwork.php">Our Work</a></li>
+                <li><a href="phpcrud/login.php">Appointments</a></li>
+            </ul>
+
+        </nav>
+    </div>
 </div>
-<div id="nav">
-  <nav>
-
-     <a href="home.php">Home</a>
-        <a href="Services.php">Services</a>
-        <a href="About.php">About</a>
-      <a href="Our%20work/ourwork.html">Our Work</a>
-      <a href="login.php">Log In</a>
-        <a href="signup.php" id="a">Sign Up</a>
-
-    <div class="animation start-home"></div>
-  </nav>
 
   <div class="container">
     <h1>Our Services</h1>
