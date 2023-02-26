@@ -2,70 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a778133-2aa6-40b5-a6ba-2132b0c07740" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css/styleourwork.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgOurwork/ad1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgOurwork/edit1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgOurwork/edit2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgOurwork/edit3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgOurwork/edit4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgOurwork/edit5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgOurwork/edit6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgOurwork/edit7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgOurwork/imageedit_1_2181771576.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgOurwork/imageedit_2_2549336608.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgOurwork/imageedit_3_3636165905.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgOurwork/imageedit_4_6304842149.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgOurwork/logo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgOurwork/logo2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgOurwork/logo3.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgOurwork/logo4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ourwork.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/.idea/phpcrud.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/adminLogin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/connection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/db_class.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/edit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/insert.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/insertNormalUser.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpcrud/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About.php" beforeDir="false" afterPath="$PROJECT_DIR$/About.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/imgOurwork/ad1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/imgOurwork/edit1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/imgOurwork/edit2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/imgOurwork/edit3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/imgOurwork/edit4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/imgOurwork/edit5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/imgOurwork/edit6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/imgOurwork/edit7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/imgOurwork/imageedit_1_2181771576.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/imgOurwork/imageedit_2_2549336608.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/imgOurwork/imageedit_3_3636165905.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/imgOurwork/imageedit_4_6304842149.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/imgOurwork/logo1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/imgOurwork/logo2.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/imgOurwork/logo3.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/imgOurwork/logo4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/ourwork.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Our work/styleourwork.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Services.php" beforeDir="false" afterPath="$PROJECT_DIR$/Services.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/stylesignup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,26 +34,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/Applications/MAMP/htdocs/AAG-Media",
-    "nodejs_package_manager_path": "npm",
-    "ruby.rails.projectView.checked": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Applications/MAMP/htdocs/AAG-Media&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "oracle",
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;oracle&quot;,
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -152,7 +89,8 @@
       <workItem from="1674592271410" duration="9000" />
       <workItem from="1674598911179" duration="2539000" />
       <workItem from="1677250156493" duration="4437000" />
-      <workItem from="1677258610828" duration="3834000" />
+      <workItem from="1677258610828" duration="3976000" />
+      <workItem from="1677340056171" duration="1000" />
     </task>
     <servers />
   </component>
